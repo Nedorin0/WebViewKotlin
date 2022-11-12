@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kedai Emas Perling</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="settings">Settings</string>
+    <string name="back_again_to_exit">Please click BACK again to exit</string>
+    <string name="nav_open" />
+    <string name="nav_close" />
+</resources>
